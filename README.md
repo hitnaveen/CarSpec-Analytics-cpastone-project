@@ -9,7 +9,7 @@ identify which specifications drive price in the Indian automobile market.
 - **EDA & Correlation** - Number of Airbags (r = 0.713) and Power/BHP (r = 0.702) are the strongest
   individual price predictors.
 - **Hypothesis Testing** - One-way ANOVA + Tukey's HSD, Kruskal-Wallis, Chi-Square Test of
-  Independence confirms significant price differences across segments (F = 1481.96, p < 0.000001).
+  Independence confirms significant differences in prices across segments (F = 1481.96, p < 0.000001).
 - **Regression Modelling ** - Benchmarked Linear, Ridge, Lasso, Random Forest, XGBoost on R²/RMSE/MAE.
   Random Forest performed best (R² = 0.892, RMSE ≈ 19.25 lakhs).
 - **Clustering & PCA** - K-Means and Hierarchical (Ward's linkage) clustering, validated via Elbow
@@ -22,12 +22,12 @@ Python · Pandas · NumPy · scikit-learn · XGBoost · SciPy · Matplotlib · S
 ## Repo Structure
 \`\`\`
 carspec-analytics/
-├── notebooks/        # EDA, statistical tests, modeling, clustering
-├── data/              # dataset
-├── report/            # full project report (PDF/DOCX)
-└── README.md
+- notebooks/        # EDA, statistical tests, modelling, clustering
+- data/              # dataset
+- report/            # full project report (PDF/DOCX)
+- README.md
 \`\`\`
 
 ## Author
-H. Naveen — [LinkedIn](https://linkedin.com/in/hnaveen)
+H. Naveen - [LinkedIn](https://linkedin.com/in/hnaveen)
 ```
