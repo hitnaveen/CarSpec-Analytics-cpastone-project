@@ -20,13 +20,13 @@ identify which specifications drive price in the Indian automobile market.
 Python · Pandas · NumPy · scikit-learn · XGBoost · SciPy · Matplotlib · Seaborn
 
 ## Repo Structure
-\`\`\`
-carspec-analytics/
+
+carspec-analytics
 - notebooks/        # EDA, statistical tests, modelling, clustering
 - data/              # dataset
 - report/            # full project report (PDF/DOCX)
 - README.md
-\`\`\`
+
 
 ## Author
 H. Naveen - [LinkedIn](https://linkedin.com/in/hnaveen)
