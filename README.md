@@ -10,7 +10,7 @@ identify which specifications drive price in the Indian automobile market.
   individual price predictors.
 - **Hypothesis Testing** - One-way ANOVA + Tukey's HSD, Kruskal-Wallis, Chi-Square Test of
   Independence confirms significant differences in prices across segments (F = 1481.96, p < 0.000001).
-- **Regression Modelling ** - Benchmarked Linear, Ridge, Lasso, Random Forest, XGBoost on R²/RMSE/MAE.
+- **Regression Modelling** - Benchmarked Linear, Ridge, Lasso, Random Forest, XGBoost on R²/RMSE/MAE.
   Random Forest performed best (R² = 0.892, RMSE ≈ 19.25 lakhs).
 - **Clustering & PCA** - K-Means and Hierarchical (Ward's linkage) clustering, validated via Elbow
   Method and Silhouette Score reveal 4 interpretable market segments.
